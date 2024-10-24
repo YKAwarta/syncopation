@@ -1,4 +1,4 @@
-package com.alfaisal.syncopation;
+package src.main.java.com.alfaisal.syncopation;
 
 public class PlayerProfile {
     String username;
